@@ -10,6 +10,10 @@ function App() {
 
     <h2>By.Connor_Hutchy</h2>
 
+    <a className="Link" href="https://connorhutchy.com/portfolio/">Portfolio Site</a>
+    <br/>
+    <a className="Link" href="https://connorhutchy.com/astrology-site/">Astronomy site</a>
+    <br></br>
     <a 
     className="Link" href="https://www.linkedin.com/in/connor-hutchinson/" >
       <img className="Image" src={LinkedIn} alt="LinkedIn"></img>
@@ -18,15 +22,9 @@ function App() {
     <a 
     className="Link" id="Git" href="https://github.com/connorhutchy" >
       <img className="Image" src={GitHub} alt="Personal Github"></img>
-      <h3>Personal</h3>
     </a>
     <br/>
-    <a 
-    className="Link" id="Git" href="https://github.com/s3544152" >
-      <img className="Image" src={GitHub} alt="Student Github"></img>
-      <h3>Student</h3>
-    </a>
-    
+  
     </div>
   );
 }
