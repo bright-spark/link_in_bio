@@ -10,9 +10,10 @@ function App() {
 
     <h2>By.Connor_Hutchy</h2>
 
-    <a className="Link" href="https://connorhutchy.com/portfolio/">Portfolio Site</a>
     <br/>
     <a className="Link" href="https://connorhutchy.com/astrology-site/">Astronomy site</a>
+    <br/>
+    <a className="Link" href="https://indibrummelen.com">Indi Brummelen - Portfolio site</a>
     <br></br>
     <a 
     className="Link" href="https://www.linkedin.com/in/connor-hutchinson/" >
